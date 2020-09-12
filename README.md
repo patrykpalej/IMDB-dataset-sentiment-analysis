@@ -4,7 +4,7 @@ In this project I perform sentiment analysis on film reviews from IMDB. I use th
 
 
 
-xUsing train set containing 40k reviews and test set containing 5k reviews I obtain accuracy:
+Using train set containing 40k reviews and test set containing 5k reviews I obtain accuracy:
 
 72.16% (Naive Bayes Classifier)
 
